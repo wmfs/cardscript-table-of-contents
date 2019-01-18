@@ -30,10 +30,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wmfs/cardscript-extract-defaults.git"
+    "url": "https://github.com/wmfs/cardscript-table-of-contents.git"
   },
   "bugs": {
-    "url": "https://github.com/wmfs/cardscript-extract-defaults/issues"
+    "url": "https://github.com/wmfs/cardscript-table-of-contents/issues"
   },
   "config": {
     "commitizen": {

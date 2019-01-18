@@ -10,7 +10,7 @@ $ npm install cardscript-table-of-contents --save
 ## <a name="usage"></a>Usage
 
 ```javascript
-const extractToc = require('cardscript-table-of-contents')
+const extractToc = require('@wmfs/cardscript-table-of-contents')
 
 const toc = extractToc(
   {

@@ -4,7 +4,7 @@
 const extractToc = require('./../lib/')
 const chai = require('chai')
 const expect = chai.expect
-const { simple, complex } = require('cardscript-examples')
+const { simple, complex } = require('@wmfs/cardscript-examples')
 
 describe('Run some Cardscript table-of-contents-extracting tests', function () {
   it('should extract some defaults from simple Cardscript', function () {

@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/wmfs/cardscript-table-of-contents/compare/v1.0.0...v1.1.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([8d33f2c](https://github.com/wmfs/cardscript-table-of-contents/commit/8d33f2c))
+
+
+### 📦 Code Refactoring
+
+* add [@wmfs](https://github.com/wmfs)/ to requires ([30dac5c](https://github.com/wmfs/cardscript-table-of-contents/commit/30dac5c))
+
+
+### 📚 Documentation
+
+* update readme with badges ([8fa0317](https://github.com/wmfs/cardscript-table-of-contents/commit/8fa0317))
+
 # 1.0.0 (2019-01-18)
 
 

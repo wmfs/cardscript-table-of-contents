@@ -1,7 +1,7 @@
 # cardscript-table-of-contents
 
 [![Tymly Cardscript](https://img.shields.io/badge/tymly-cardscript-blue.svg)](https://tymly.io/)
-[![Build Status](https://travis-ci.com/wmfs/cardscript-table-of-contents.svg?branch=master)](https://travis-ci.com/wmfs/cardscript-table-of-contents)
+[![CircleCI](https://circleci.com/gh/wmfs/cardscript-table-of-contents.svg?style=svg)](https://circleci.com/gh/wmfs/cardscript-table-of-contents)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/cardscript-table-of-contents.svg)](https://www.npmjs.com/package/@wmfs/cardscript-table-of-contents) 
 [![codecov](https://codecov.io/gh/wmfs/cardscript-table-of-contents/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/cardscript-table-of-contents) 
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/cardscript-table-of-contents/badge)](https://www.codefactor.io/repository/github/wmfs/cardscript-table-of-contents) 
